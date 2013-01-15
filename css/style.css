@@ -1,17 +1,9 @@
 @charset "UTF-8";
 body{
-	
-	
 	font:14px/1.3em Arial, Helvetica, sans-serif;
-	color:#333;
-	background: #DDD;
-	padding:40px;
-	
-	
-	
-	background: linear-gradient(to bottom,  #848484 0%,#c5c5c5 61%); /* W3C */
-	
-	
+	color:#EEE;
+	background: #191a1d;
+	padding-top:50px;
 }
 
 
@@ -23,9 +15,9 @@ body{
 
 header.main{
 	position:fixed;
-	top:40px;left:0;
-	width:200px;
-	xbackground:#7AF;
+	top:0;left:0;right:0;
+	height:50px;
+	background:#385b98;
 }
 section.main{
 	margin-left:160px;
